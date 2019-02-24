@@ -10,17 +10,14 @@ chars.reverse()
 
 ### welcome text
 print("""
-   ___    ___    __  __  ______  ___     __         ___  _   __  ____   _  __
-  / _ )  / _ \\  / / / / /_  __/ / _ |   / /        <  / | | / / / / /  / |/ /
- / _  | / , _/ / /_/ /   / /   / __ |  / /__       / /  | |/ / /_  _/ /    / 
-/____/ /_/|_|  \\____/   /_/   /_/ |_| /____/      /_/   |___/   /_/  /_/|_/  
+- - - B R U T E   I V A N - - -
 
 V E R S I O N :  A L P H A
 
 2 0   c h a r a c t e r s   m a x
 """)
 
-password = "izL0ng!"
+password = "123"
 
 raw_input("\nP R E S S   [ E N T E R ]   T O   B E G I N")
 
