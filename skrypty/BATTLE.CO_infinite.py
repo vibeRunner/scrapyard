@@ -298,12 +298,14 @@ while True:
 ### TO-DO LIST
 # 1. Zrob komentarze odnosnie twojego stylu gry w ekranie smierci
 # 2. Dodaj eventy, po jednym na dzien
-# 3. Zrob by itemy dzialaly
+# 3. Zrob itemy
 # 4. Zbalansuj bohaterow i potwory
 # 5. Dodaj muzyczke 
 # 6. Rodzaje przeciwnikow
 # 7. Ciekawsza walka - minigierki! DMG nie zawsze tyle zadaje!
 # 8. Check sprawdza wszystkich na raz
+# 9. Rosnące difficulty!
+# 10. Więcej atakow
 
 # +. Zrob pelna edycje gry
 
