@@ -1,3 +1,4 @@
+#by M81V4N
 import string
 
 ### character list making
