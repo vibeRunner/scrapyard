@@ -1,7 +1,23 @@
 ### en
 What each script does?
-*wip*
 
+## Battle.CO Infinite
+Simple console game based on python 'classes'. Three heroes faces endless hordes of random generated monsters. We play by choosing actions by typing option's number.
+
+## Brute1V4N
+Script that generates all combinations of characters and compares it with 'password'. This works based on 20 'for' loops, so it isn't that good.
+
+## TIME SCRIPTS (Works only on macOS)
+- *Alarm.py* Program counts time by target hours and minutes, then message is announced by text-to-speech.
+- *Timer.py* Program counts seconds, then message is announced by text-to-speech.
+
+## DataManagingScript
+Reads data stored in *data.py* file in dictionaries inside list so you can read them and modify entries.
+
+## Primes
+Searches for prime numbers.
+
+### ==========
 ### pl
 Co robi każdy ze skryptów?
 
@@ -9,9 +25,9 @@ Co robi każdy ze skryptów?
 Prosta gierka konsolkowa oparta na pythonowych 'classach'. Kierujemy czynami trójki bohaterów, którzy każdego dnia stawiają czoła losowo generowanej trójce potworów. Po pokonaniu jednej fali nadchodzi kolejny dzień, wraz z którym kolejne wyzwania. Sterowanie odbywa się za pomocą wybierania opcji pisząc właściwy numerek.
 
 ## Brute1V4N
-Skrypt, który generuje wszystkie możliwe kombinacje. Każdą z kolei porównuje z zmienną-hasłem do momentu, gdy będą równe. Działa to dzięki 20 pętlach 'for', umieszczonych jedna w drugiej.
+Skrypt, który generuje wszystkie możliwe kombinacje ze znaków. Każdą z kolei porównuje z zmienną-hasłem do momentu, gdy będą równe. Działa to dzięki 20 pętlach 'for', umieszczonych jedna w drugiej.
 
-## CZAS (Te skrypty działają tylko na macOS)
+## SKRYPTY CZASU (Te skrypty działają tylko na macOS)
 - *Alarm.py:* Po wpisaniu docelowej godziny program odlicza pozostały czas.
 - *Timer.py:* Po upływie ustalonej ilości sekund syntezator mowy czyta tekst.
 
