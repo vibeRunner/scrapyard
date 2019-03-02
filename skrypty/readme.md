@@ -7,7 +7,7 @@ Simple console game based on python 'classes'. Three heroes faces endless hordes
 ## Brute1V4N
 Script that generates all combinations of characters and compares it with 'password'. This works based on 20 'for' loops, so it isn't that good.
 
-## TIME SCRIPTS (Works only on macOS)
+## TIME SCRIPTS (Works only on macOS and Linux)
 - *Alarm.py* Program counts time by target hours and minutes, then message is announced by text-to-speech.
 - *Timer.py* Program counts seconds, then message is announced by text-to-speech.
 
@@ -27,7 +27,7 @@ Prosta gierka konsolkowa oparta na pythonowych 'classach'. Kierujemy czynami tr�
 ## Brute1V4N
 Skrypt, który generuje wszystkie możliwe kombinacje ze znaków. Każdą z kolei porównuje z zmienną-hasłem do momentu, gdy będą równe. Działa to dzięki 20 pętlach 'for', umieszczonych jedna w drugiej.
 
-## SKRYPTY CZASU (Te skrypty działają tylko na macOS)
+## SKRYPTY CZASU (Te skrypty działają tylko na macOS i Linux)
 - *Alarm.py:* Po wpisaniu docelowej godziny program odlicza pozostały czas.
 - *Timer.py:* Po upływie ustalonej ilości sekund syntezator mowy czyta tekst.
 
