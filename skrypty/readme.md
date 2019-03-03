@@ -2,7 +2,7 @@
 What each script does?
 
 ## Battle.CO Infinite
-Simple console game based on python 'classes'. Three heroes faces endless hordes of random generated monsters. We play by choosing actions by typing option's number.
+Simple console game based on python 'classes'. Three heroes face endless hordes of random generated monsters. We play by choosing actions by typing option's number.
 
 ## Brute1V4N
 Script that generates all combinations of characters and compares it with 'password'. This works based on 20 'for' loops, so it isn't that good.
