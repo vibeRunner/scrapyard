@@ -291,22 +291,3 @@ while True:
 
 	else:
 		raw_input("Weird error occurred... Press ENTER to see what happens next...")
-
-
-
-
-### TO-DO LIST
-# 1. Zrob komentarze odnosnie twojego stylu gry w ekranie smierci
-# 2. Dodaj eventy, po jednym na dzien
-# 3. Zrob itemy
-# 4. Zbalansuj bohaterow i potwory
-# 5. Dodaj muzyczke 
-# 6. Rodzaje przeciwnikow
-# 7. Ciekawsza walka - minigierki! DMG nie zawsze tyle zadaje!
-# 8. Check sprawdza wszystkich na raz
-# 9. Rosnące difficulty!
-# 10. Więcej atakow
-
-# +. Zrob pelna edycje gry
-
-# game by M81V4N
