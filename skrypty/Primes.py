@@ -1,4 +1,6 @@
 #by M81V4N
+#v3.0 'SonicPrimes'
+import math
 
 #temporary
 a = float(9)
@@ -9,6 +11,7 @@ while True:
     #clear
     search = 0
     choosenOnes = []
+    root = math.sqrt(a)
 
     #divides and tests
     while True:
@@ -17,16 +20,11 @@ while True:
 
         if calcFloat == calcInt:
             choosenOnes.append(primes[search])
-
-        if search == len(primes) - 1:
-            break
-
-        if len(choosenOnes) > 0:
             break
 
         search += 1
 
-        if a/2 <= primes[search]:
+        if root < primes[search]:
         	break
 
     #appears
