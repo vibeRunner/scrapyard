@@ -1,3 +1,7 @@
+*this file is both in english and polish language*
+*wersja w jęz. polskim jest poniżej*
+
+
 ### en
 What each script does?
 
