@@ -1,5 +1,5 @@
 #by M81V4N
-#v3.0 'SonicPrimes'
+#v3.0 'SanicPrimes'
 import math
 
 #temporary
