@@ -38,3 +38,4 @@ for a in now:
     forceB += 1
     
 print(final)
+
