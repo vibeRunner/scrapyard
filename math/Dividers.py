@@ -23,4 +23,4 @@ print("\n")
 print(ad)
 
 if len(ad) == 2 or len(ad) == 1:
-    print("PRIME NUMBER!”)
+    print("PRIME NUMBER!")
