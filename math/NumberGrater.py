@@ -7,6 +7,7 @@ containsPrimes = []
 currentNum = num
 dividers = []
 killTheInfiniteLoopOfDoom = False
+longestLen = 0
 a = float(5)
 primes = [2, 3]
 #generate primes smaller than num
@@ -36,17 +37,18 @@ if primes[-1] == num:
     dividers.append(nim)
     
 else:
+    longestLen = len(str(num))
     while True:
         for a in primes:
             if currentNum/a == int(currentNum/a):
-                print(str(currentNum)+' | ' +str(a))
+                print((longestLen - len(str(currentNum))) * ' ' +str(currentNum)+ ' | ' +str(a))
                 currentNum = int(currentNum/a)
                 dividers.append(a)
                 break
                 
             if currentNum == 1:
             	killTheInfiniteLoopOfDoom = True
-            	print("1 |")
+            	print((longestLen - len(str(currentNum))) * ' ' +"1 |")
             	break
         
         if killTheInfiniteLoopOfDoom is True:
