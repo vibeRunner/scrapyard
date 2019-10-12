@@ -2,7 +2,7 @@
 import time as t
 import subprocess as s
 
-target = {"hour":input("hour: "), "minutes":input("minutes: ")}
+target = {"hour":int(input("hour: ")), "minutes":int(input("minutes: "))}
 print("Alarm set.")
 while True:
     time = t.localtime()
