@@ -19,7 +19,7 @@ UNO-like game, project seased.
 ### DividingDividers
 Lists all dividers of a number. Highly uneffective, has problems with any number that is longer than 7 numbers. But it works.
 ### NumberGrater
-Search for prime dividers. Dumb, not working code. I reworked it, but unluckily I had the new version on my phone, which got an factory reset... TO BE REWRITTEN
+Search for prime dividers. Just like in elementary school.
 ### PascalBracket
 PLEASE IGNORE. i was making it before I had this on the math lesson, so I totally had no clue what's it supposed to do. TO BE REWRITTEN
 ### PascalResearcher
