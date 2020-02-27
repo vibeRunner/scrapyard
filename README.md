@@ -37,6 +37,6 @@ basically replaces all letters in the input with respective amount of "ok" for t
 ### Alarm
 Simple alarm with TTS message activacting on specified time. It works on macOS, not so sure about Linux or Windows
 ### Brute1V4N
-More of a silly idea, it's supposed to generate all possible combinations with letters up to 20 character string.
+More of a silly idea, it's supposed to generate all possible combinations with letters up to 20 character string. And yes, I could make one loop for going after every character in the password! It was just a long time ago.
 ### Timer.py
 Alarm, but activates after specified amount of seconds.
