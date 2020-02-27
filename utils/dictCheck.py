@@ -1,2 +1,0 @@
-#basically dictionary attack
-#todo
