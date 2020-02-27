@@ -1,5 +1,5 @@
 # scrapyard
-The results of messing around with Python.
+The results of messing around with Python. Tests, smaller projects that don't need to have distinct repository, silly ideas.
 (small note: In case you SOMEHOW would like to use my crappy code, feel free to do it. Just put my nick in the credits.)
 
 -----
