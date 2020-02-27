@@ -39,4 +39,4 @@ Simple alarm with TTS message activacting on specified time. It works on macOS, 
 ### Brute1V4N
 More of a silly idea, it's supposed to generate all possible combinations with letters up to 20 character string.
 ### Timer.py
-Clock, but activates after specified amount of seconds.
+Alarm, but activates after specified amount of seconds.
