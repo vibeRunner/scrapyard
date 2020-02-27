@@ -12,7 +12,7 @@ UNO-like game, project seased.
 -----
 ## fileOperations
 ### DataManagingScript
-"Database" tests. Write prompts to console to modify data.py. Yes, I know it's dumb to use .py file to store data. But it works. And I'm too lazy to modify this.
+"Database" tests. Write prompts to console to modify data.py. Yes, I know it's dumb to use .py files to store data. But it works. And I'm too lazy to modify this.
 
 -----
 ## math
