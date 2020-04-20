@@ -17,7 +17,7 @@ UNO-like game, project seased.
 -----
 ## math
 ### DividingDividers
-Lists all dividers of a number. Highly uneffective, has problems with any number that is longer than 7 numbers. But it works.
+Lists all dividers of a number. Highly uneffective, has problems with any number that is longer than 7 digits. But it works.
 ### NumberGrater
 Search for prime dividers. Just like in elementary school.
 ### PascalBracket
