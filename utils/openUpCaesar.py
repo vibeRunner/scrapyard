@@ -1,4 +1,6 @@
 # by m81v4n
+# special thanks to Caesar I guess
+
 import string
 
 alphabet = list(string.ascii_uppercase)
