@@ -1,6 +1,6 @@
 # scrapyard
 The results of messing around with Python. Tests, smaller projects, silly ideas.
-(small note: In case you SOMEHOW would like to use my crappy code, feel free to do it. Just put my nick in the credits.)
+(small note: In case you *for some reason*  would like to use my crappy code, feel free to do it. Just put my nick in the credits.)
 
 -----
 ## consoleGames
@@ -38,5 +38,8 @@ basically replaces all letters in the input with respective amount of "ok" for t
 Simple alarm with TTS message activacting on specified time. It works on macOS, not so sure about Linux or Windows
 ### Brute1V4N
 More of a silly idea, it's supposed to generate all possible combinations with letters up to 20 character string. And yes, I could make one loop for going after every character in the password! It was just a long time ago.
+### openUpCaesar.py
+Open up Caesar! We need to know the truth!
+the most basic script there is, with a very obvious twist. it just plays around with Caesar ciphers. If you don't know the "key", just use its' bruteforcing function!
 ### Timer.py
 Alarm, but activates after specified amount of seconds.
