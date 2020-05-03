@@ -24,7 +24,7 @@ r.shuffle(posts)
 print('\neverything ready. we can begin now.')
 ### LOOP
 while True:
-    randomPostIndex = r.randint(0, postLimit*4-1)
+    randomPostIndex = r.randint(0, len(posts)-1)
     randomPost = posts[randomPostIndex]
 
     print('\n---------------')
