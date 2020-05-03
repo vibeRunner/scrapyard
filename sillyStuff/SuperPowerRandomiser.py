@@ -3,40 +3,28 @@
 import random as r
 import praw
 
-postLimit = 1000
+postLimit = 1
 
 print('\nConnecting... ', end='')
-reddit = praw.Reddit(client_id="",  # https://www.reddit.com/prefs/apps
-                     client_secret="",
-                     password="",
-                     user_agent="super powers by m81v4n",
-                     username="")
+reddit = praw.Reddit(client_id="mWwIHYJyhcV97A",  # https://www.reddit.com/prefs/apps
+                     client_secret="qamO17spVLJaYFMv6PNltDirse0",
+                     password="iskarsoftwareindustries",
+                     user_agent="super powers by /u/MrMagicPL",
+                     username="iskarsoftware")
 print('done\n')
 
-godTier = reddit.subreddit('godtiersuperpowers')
-shitty = reddit.subreddit('shittysuperpowers')
-titan = reddit.subreddit('titantiersuperpowers')
-withCatch = reddit.subreddit('superpowerswithacatch')
-
-# this could be simplified, but there's no urgent need to
-print('Fetching posts from GodTierSuperPowers... ', end='')
-posts = [post for post in godTier.hot(limit=postLimit)]          # god
-print('done')
-print('Fetching posts from ShittySuperPowers... ', end='')
-posts.extend([post for post in shitty.hot(limit=postLimit)])     # shitty
-print('done')
-print('Fetching posts from TitanTierSuperPowers... ', end='')
-posts.extend([post for post in titan.hot(limit=postLimit)])      # titan
-print('done')
-print('Fetching posts from SuperPowersWithACatch... ', end='')
-posts.extend([post for post in withCatch.hot(limit=postLimit)])  # withCatch
-print('done')
+posts = []
+subredditsList = ['godtiersuperpowers','shittysuperpowers','titantiersuperpowers','superpowerswithacatch']
+for sub in subredditsList:
+    print('Fetching posts from '+sub+'... ', end='')
+    posts.extend([post for post in reddit.subreddit(sub).hot(limit=postLimit)])
+    print('done')
 r.shuffle(posts)
 
 print('\neverything ready. we can begin now.')
 ### LOOP
 while True:
-    randomPostIndex = r.randint(0, postLimit-1)
+    randomPostIndex = r.randint(0, postLimit*4-1)
     randomPost = posts[randomPostIndex]
 
     print('\n---------------')
