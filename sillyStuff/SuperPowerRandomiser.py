@@ -21,6 +21,7 @@ for sub in subredditsList:
     print('done')
 r.shuffle(posts)
 
+
 print('\neverything ready. we can begin now.')
 ### LOOP
 while True:
