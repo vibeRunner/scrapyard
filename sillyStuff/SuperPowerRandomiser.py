@@ -6,11 +6,11 @@ import praw
 postLimit = 100
 
 print('\nConnecting... ', end='')
-reddit = praw.Reddit(client_id="mWwIHYJyhcV97A",  # https://www.reddit.com/prefs/apps
-                     client_secret="qamO17spVLJaYFMv6PNltDirse0",
-                     password="iskarsoftwareindustries",
-                     user_agent="super powers by /u/MrMagicPL",
-                     username="iskarsoftware")
+reddit = praw.Reddit(client_id="",  # https://www.reddit.com/prefs/apps
+                     client_secret="",
+                     password="",
+                     user_agent="super powers by m81v4n",
+                     username="")
 print('done\n')
 
 posts = []
