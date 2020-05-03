@@ -3,7 +3,7 @@
 import random as r
 import praw
 
-postLimit = 1
+postLimit = 100
 
 print('\nConnecting... ', end='')
 reddit = praw.Reddit(client_id="mWwIHYJyhcV97A",  # https://www.reddit.com/prefs/apps
