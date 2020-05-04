@@ -34,4 +34,5 @@ while True:
     if randomPost.selftext != '':
         print(randomPost.selftext)
 
+    posts.pop(posts.index(randomPost))
     input()
