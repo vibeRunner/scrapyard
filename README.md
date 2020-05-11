@@ -33,6 +33,8 @@ Third version of my primes searching script.
 basically replaces all letters in the input with respective amount of "ok" for the position in the alphabet of said key. Example of use is in the out.txt file. Try to guess what was this file previously!
 ### SuperPowerRandomiser
 Ever wanted to become a superhero? Now it's a dream come true with paranormal abilities, pasionately designed by Redditors! Get random powers from subreddits of your choice, by utilising PRAW library. Remember to create an app on webside to which link is provided in the code, and fill out the detais in the 9th line!
+### FizzBuzz
+Nothing special. My take on a simple script that apparently some companies tell to make for recruitment.
 
 -----
 ## utils
