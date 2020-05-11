@@ -10,12 +10,12 @@ unfinished text-based rpg game project. 3 heroes facing randomly-generated monst
 UNO-like game, project seased.
 
 -----
-## fileOperations
+## [fileOperations](fileOperations)
 ### DataManagingScript
 "Database" tests. Write prompts to console to modify data.py. Yes, I know it's dumb to use .py files to store data. But it works. And I'm too lazy to modify this.
 
 -----
-## math
+## [math])(math)
 ### DividingDividers
 Lists all dividers of a number. Highly uneffective, has problems with any number that is longer than 7 digits. But it works.
 ### NumberGrater
@@ -28,7 +28,7 @@ Basically searches for next rows of the Pascal pyramid. Endlessly. Used in the s
 Third version of my primes searching script.
 
 -----
-## sillyStuff
+## [sillyStuff](sillyStuff)
 ### OKinator
 basically replaces all letters in the input with respective amount of "ok" for the position in the alphabet of said key. Example of use is in the out.txt file. Try to guess what was this file previously!
 ### SuperPowerRandomiser
@@ -37,7 +37,7 @@ Ever wanted to become a superhero? Now it's a dream come true with paranormal ab
 Nothing special. My take on a simple script that apparently some companies tell to make for recruitment.
 
 -----
-## utils
+## [utils](utils)
 ### Alarm
 Simple alarm with TTS message activacting on specified time. It works on macOS, not so sure about Linux or Windows
 ### Brute1V4N
