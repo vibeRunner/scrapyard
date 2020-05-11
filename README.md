@@ -15,7 +15,7 @@ UNO-like game, project seased.
 "Database" tests. Write prompts to console to modify data.py. Yes, I know it's dumb to use .py files to store data. But it works. And I'm too lazy to modify this.
 
 -----
-## [math])(math)
+## [math](math)
 ### DividingDividers
 Lists all dividers of a number. Highly uneffective, has problems with any number that is longer than 7 digits. But it works.
 ### NumberGrater
