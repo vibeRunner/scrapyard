@@ -34,7 +34,7 @@ basically replaces all letters in the input with respective amount of "ok" for t
 ### SuperPowerRandomiser
 Ever wanted to become a superhero? Now it's a dream come true with paranormal abilities, pasionately designed by Redditors! Get random powers from subreddits of your choice, by utilising PRAW library. Remember to create an app on webside to which link is provided in the code, and fill out the detais in the 9th line!
 ### FizzBuzz
-Nothing special. My take on a simple script that apparently some companies tell to make for recruitment.
+Nothing special. My take on a simple script that apparently is a part of recruitment process for some companies.
 
 -----
 ## [utils](utils)
