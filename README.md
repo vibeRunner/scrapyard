@@ -3,7 +3,7 @@ The results of messing around with Python. Tests, smaller projects, silly ideas.
 (small note: In case you *for some reason*  would like to use my crappy code, feel free to do it. Just put my nick in the credits.)
 
 -----
-## consoleGames
+## [consoleGames](consoleGames)
 ### BATTLE.CO_infinite
 unfinished text-based rpg game project. 3 heroes facing randomly-generated monsters every day.
 ### one
