@@ -1,5 +1,7 @@
 # by m81v4n
 # special thanks to Caesar I guess
+# Disclaimer: this program replaces letters included in English alphabet.
+# In order to use other languages, update variable "alphabet".
 
 import string
 
