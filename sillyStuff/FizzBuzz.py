@@ -10,9 +10,9 @@ while True:
 
 	out = ''
 	if counter % 3 == 0:
-		out += 'FizzBuzz'
+		out += 'Fizz'
 	if counter % 5 == 0:
-		out += 'FizzBuzz'
+		out += 'Buzz'
 
 	if out != '':
 		print(out)
