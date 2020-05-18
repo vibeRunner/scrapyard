@@ -6,7 +6,7 @@ import string
 alphabet = list(string.ascii_uppercase)
 text = input('Text: ').upper()
 mode = int(input('1 to cipher, 2 to decipher:'))
-brute = int(input('1 for BRUTE mode, 0 when key is known: '))
+brute = int(input('1 for brute force mode, 0 when key is known: '))
 
 def cipher(i):
     global text
