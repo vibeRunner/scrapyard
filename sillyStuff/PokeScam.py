@@ -22,7 +22,7 @@ def write(text):
 		t.sleep(0.1) # co ile wpisuje znak
 	keyboard.write('\n')
 
-def loop(endkey='esc'):
+def loop(endkey='ctrl'):
 	while True:
 		try:
 			write('p!duel @void#3871\n') # osoba pingowana
