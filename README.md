@@ -34,7 +34,7 @@ Nothing special. My take on a simple script that apparently is a part of recruit
 ### OKinator
 basically replaces all letters in the input with respective amount of "ok" for the position in the alphabet of said key. Example of use is in the out.txt file. Try to guess what was this file previously!
 ### PokeScam
-Macro that switches between two accounts on Discord and constantly runs Pokecord duel commands to gain XP. In order to make it work, immediately after starting script press text box in first window, then press second typing textbox in second window. I recommend having all three windows: browser, console and discord app next to each other.
+Macro that switches between two accounts on Discord and constantly runs Pokecord duel commands to gain XP. In order to make it work, immediately after starting script press the text box in first window, then press the second textbox in the second window. I recommend having all three windows: browser, console and discord app next to each other. Stop the script by holding (CTRL). also close all windows besides those required just in case something goes wrong
 ### SuperPowerRandomiser
 Ever wanted to become a superhero? Now it's a dream come true with paranormal abilities, pasionately designed by Redditors! Get random powers from subreddits of your choice, by utilising PRAW library. Remember to create an app on webside to which link is provided in the code, and fill out the detais in the 9th line!
 
