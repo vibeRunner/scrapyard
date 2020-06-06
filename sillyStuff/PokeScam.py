@@ -3,10 +3,10 @@ import time as t
 from pynput.keyboard import Key, Controller
 kb = Controller()
 
-t.sleep(3)
-
 print('PokeScam by m81v4n')
-print('3 seconds to prepare.')
+print('5 seconds to prepare.')
+
+t.sleep(5)
 
 def switchTabAndWait():
 	kb.press(Key.alt_l)
