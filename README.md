@@ -6,8 +6,6 @@ The results of messing around with Python. Tests, smaller projects, silly ideas.
 ## [consoleGames](consoleGames)
 ### BATTLE.CO_infinite
 unfinished text-based rpg game project. 3 heroes facing randomly-generated monsters every day. Old script, repeatable copy-pasted lines... not worth checking out
-### one
-UNO-like game, project seased. it doesn't even work yet
 
 -----
 ## [fileOperations](fileOperations)
