@@ -44,9 +44,8 @@ Ever wanted to become a superhero? Now it's a dream come true with paranormal ab
 Simple alarm with TTS message activacting on specified time. It works on macOS, not so sure about Linux or Windows
 ### Brute1V4N
 More of a silly idea, it's supposed to generate all possible combinations with letters up to 20 character string. And yes, I could make one loop for going after every character in the password! It was just a long time ago.
-### openUpCaesar
-Open up Caesar! We need to know the truth!
-the most basic script there is, with a very obvious twist. it just plays around with Caesar ciphers. If you don't know the "key", just use its' bruteforcing function!
+### caesar
+The most basic script there is, with a very obvious twist. it just plays around with Caesar ciphers. If you don't know the "key", just use its' bruteforcing function!
 ### SummoningStone
 Tired of copy-pasting pings to make your friends come on voice chat? Why not automate this process! This simple discord bot will constantly ping your target. Friendly disclaimer: they *might* get mad at you for using it
 ### Timer
