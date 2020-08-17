@@ -10,7 +10,7 @@ unfinished text-based rpg game project. 3 heroes facing randomly-generated monst
 -----
 ## [fileOperations](fileOperations)
 ### DataManagingScript
-"Database" tests. Write prompts to console to modify data.py. Also, a test for importing other python files
+"Database" tests from times before I heard about JSON or SQL or others. Write prompts to console to modify data.py. Also, a test for importing other python files
 
 -----
 ## [math](math)
