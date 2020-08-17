@@ -1,6 +1,6 @@
 # scrapyard
 The results of messing around with Python. Tests, smaller projects, silly ideas.
-(small note: In case you would like to *for some reason*  use my crappy code, feel free to do it. Just don't do it commercially and include my nick in the credits.)
+(small note: In case you would like to *for some reason*  use my crappy code, feel free to do it. Just don't do it commercially and include my nick and repo link in the credits.)
 
 -----
 ## [consoleGames](consoleGames)
