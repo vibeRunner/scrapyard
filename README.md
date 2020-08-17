@@ -5,14 +5,14 @@ The results of messing around with Python. Tests, smaller projects, silly ideas.
 -----
 ## [consoleGames](consoleGames)
 ### BATTLE.CO_infinite
-unfinished text-based rpg game project. 3 heroes facing randomly-generated monsters every day. Old script, repeatable copy-pasted lines... - ignore
+unfinished text-based rpg game project. 3 heroes facing randomly-generated monsters every day. Old script, repeatable copy-pasted lines... not worth checking out
 ### one
-UNO-like game, project seased. ignore?
+UNO-like game, project seased. it doesn't even work yet
 
 -----
 ## [fileOperations](fileOperations)
 ### DataManagingScript
-"Database" tests. Write prompts to console to modify data.py. Yes, I know it's dumb to use .py files to store data. But it works. And I'm too lazy to modify this.
+"Database" tests. Write prompts to console to modify data.py. Also, a test for importing other python files
 
 -----
 ## [math](math)
@@ -21,7 +21,7 @@ Lists all dividers of a number. Highly uneffective, has problems with any number
 ### NumberGrater
 Search for prime dividers. Just like in elementary school.
 ### PascalBracket
-PLEASE IGNORE. i was making it before I had this on the math lesson, so I totally had no clue what's it supposed to do. TO BE REWRITTEN
+TO BE FIXED. i was making it before I had this on the math lesson, so I totally had no clue what's it supposed to do. TO BE REWRITTEN
 ### PascalResearcher
 Basically searches for next rows of the Pascal pyramid. Endlessly. Used in the script above.
 ### SanicPrimes
