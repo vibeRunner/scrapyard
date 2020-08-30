@@ -52,7 +52,6 @@ def main():
     if mode == 1:
 
         if brute == 1:
-
             for i in range(1, 27):  # 26x for EN
                 print(caesar_loop(text, cipher, i), end='\n\n')
 
@@ -63,7 +62,6 @@ def main():
     elif mode == 2:
 
         if brute == 1:
-
             for i in range(1, 27):  # 26x for EN
                 print(caesar_loop(text, decipher, i), end='\n\n')
 
