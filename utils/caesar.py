@@ -3,26 +3,21 @@
 
 import string
 
-alphabetUpper = list(string.ascii_uppercase)
-alphabetLower = list(string.ascii_lowercase)
-
-text = input('Text: ')
-mode = int(input('1 to cipher, 2 to decipher: '))
-brute = int(input('1 for BRUTE mode, 0 when key is known: '))
+alphabet_upper = list(string.ascii_uppercase)
+alphabet_lower = list(string.ascii_lowercase)
 
 
-def caesarLoop(mode, i):
+def caesar_loop(text, mode, i):
 
-    global text
     out = ''
 
     for key in text:
 
-        if key in alphabetUpper:
-            out += mode(alphabetUpper, key, i)
+        if key in alphabet_upper:
+            out += mode(alphabet_upper, key, i)
 
-        elif key in alphabetLower:
-            out += mode(alphabetLower, key, i)
+        elif key in alphabet_lower:
+            out += mode(alphabet_lower, key, i)
 
         else:
             out += key
@@ -48,20 +43,35 @@ def decipher(alphabet, key, i):
         return alphabet[alphabet.index(key) - i]
 
 
-if mode == 1:
+def main():
 
-    if brute == 1:
-        for i in range(26):  # 26x for EN
-            print(caesarLoop(cipher, i + 1) + '\n')
+    text = input('Text: ')
+    mode = int(input('1 to cipher, 2 to decipher: '))
+    brute = int(input('1 for BRUTE mode, 0 when key is known: '))
 
-    elif brute == 0:
-        print(caesarLoop(cipher, int(input('i: '))))
+    if mode == 1:
 
-elif mode == 2:
+        if brute == 1:
 
-    if brute == 1:
-        for i in range(26):  # 26x for EN
-            print(caesarLoop(decipher, i + 1) + '\n')
+            for i in range(1, 27):  # 26x for EN
+                print(caesar_loop(text, cipher, i), end='\n\n')
 
-    elif brute == 0:
-        print(caesarLoop(decipher, int(input('i: '))))
+        elif brute == 0:
+            i = int(input('i: '))
+            print(caesar_loop(text, cipher, i))
+
+    elif mode == 2:
+
+        if brute == 1:
+
+            for i in range(1, 27):  # 26x for EN
+                print(caesar_loop(text, decipher, i), end='\n\n')
+
+        elif brute == 0:
+            i = int(input('i: '))
+            print(caesar_loop(text, decipher, i))
+
+
+if __name__ == "__main__":
+    main()
+    
