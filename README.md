@@ -40,6 +40,8 @@ Ever wanted to become a superhero? Now it's a dream come true with paranormal ab
 ## [utils](utils)
 ### Alarm
 Simple alarm with TTS message activacting on specified time. It works on macOS, not so sure about Linux or Windows
+### BinaryClock
+Simple clock displaying binary values on LED's connected together with cables and resistors. I can provide photos of the circuit, just hmu
 ### Brute1V4N
 More of a silly idea, it's supposed to generate all possible combinations with letters up to 20 character string. And yes, I could make one loop for going after every character in the password! It was just a long time ago.
 ### caesar
