@@ -26,7 +26,7 @@ try:
 
 		time = t.localtime()
 
-		binaryHour = bin(time.tm_hour + 1)[2:] # that +1 cuz module doesn't work that well
+		binaryHour = bin(time.tm_hour)[2:]
 		if len(binaryHour) != 5:
 			binaryHour = '0' * (5 - len(binaryHour)) + binaryHour
 
