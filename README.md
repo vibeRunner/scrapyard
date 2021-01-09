@@ -20,12 +20,10 @@ unfinished text-based rpg game project. 3 heroes facing randomly-generated monst
 Lists all dividers of a number. Highly uneffective, has problems with any number that is longer than 7 digits. But it works.
 ### NumberGrater
 Search for prime dividers. Just like in elementary school.
-### PascalBracket
-TO BE FIXED. i was making it before I had this on the math lesson, so I totally had no clue what's it supposed to do. TO BE REWRITTEN
 ### PascalResearcher
 Basically searches for next rows of the Pascal pyramid. Endlessly. Used in the script above.
 ### SanicPrimes
-Third version of my primes searching script.
+Third version of my primes searching script, could be better though.
 
 -----
 ## [sillyStuff](sillyStuff)
@@ -41,11 +39,11 @@ Ever wanted to become a superhero? Now it's a dream come true with paranormal ab
 -----
 ## [utils](utils)
 ### Alarm
-Simple alarm with TTS message activacting on specified time. It works on macOS, not so sure about Linux or Windows
+Simple alarm with TTS message activacting on specified time. works on macOS
 ### BinaryClock
-Simple raspberry pi clock displaying binary values on LED's connected together with cables and resistors. I can provide photos of the circuit, just hmu
+Simple raspberry pi clock displaying time in binary on LED's connected together with cables and resistors.
 ### Brute1V4N
-More of a silly idea, it's supposed to generate all possible combinations with letters up to 20 character string. And yes, I could make one loop for going after every character in the password! It was just a long time ago.
+More of a silly idea executed in a weird way, it's supposed to generate all possible combinations with letters up to 20 character string. who knew that 20 nested loops is the maximum...
 ### caesar
 The most basic script there is, with a very obvious twist. it just plays around with Caesar ciphers. If you don't know the "key", just use its' bruteforcing function!
 ### SummoningStone
