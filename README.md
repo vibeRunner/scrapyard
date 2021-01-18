@@ -21,7 +21,7 @@ Lists all dividers of a number. Highly uneffective, has problems with any number
 ### NumberGrater
 Search for prime dividers. Just like in elementary school.
 ### PascalResearcher
-Basically searches for next rows of the Pascal pyramid. Endlessly. Used in the script above.
+Basically searches for next rows of the Pascal pyramid endlessly.
 ### SanicPrimes
 Third version of my primes searching script, could be better though.
 ### super30
