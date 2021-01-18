@@ -24,6 +24,8 @@ Search for prime dividers. Just like in elementary school.
 Basically searches for next rows of the Pascal pyramid. Endlessly. Used in the script above.
 ### SanicPrimes
 Third version of my primes searching script, could be better though.
+### super30
+Simple script I wrote for my brother learning basic math. Shows you a bunch of numbers to add together. You can change variables at the beginning of the code to make the task more difficult.
 
 -----
 ## [sillyStuff](sillyStuff)
