@@ -1,4 +1,4 @@
-# by m81v4n
+# by vibeRunner
 # special thanks to Caesar I guess
 
 import string
