@@ -9,7 +9,7 @@ print('\nConnecting... ', end='')
 reddit = praw.Reddit(client_id="",  # https://www.reddit.com/prefs/apps
                      client_secret="",
                      password="",
-                     user_agent="super powers by m81v4n",
+                     user_agent="super powers by vibeRunner",
                      username="")
 print('done\n')
 
