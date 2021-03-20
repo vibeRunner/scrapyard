@@ -1,4 +1,4 @@
-# by m81v4n
+# by vibeRunner
 ### INIT
 import random as r
 import praw
