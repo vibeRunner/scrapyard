@@ -48,6 +48,6 @@ Simple raspberry pi clock displaying time in binary on LED's connected together 
 ### Brute1V4N
 More of a silly idea executed in a weird way, it's supposed to generate all possible combinations with letters up to 20 character string. who knew that 20 nested loops is the maximum...
 ### caesar
-The most basic script there is, with a very obvious twist. it just plays around with Caesar ciphers. If you don't know the "key", just use its' bruteforcing function!
+The most basic cipher there is. The script decodes and encodes text using Caesar cipher. If you don't know the "key", just use the bruteforcing function!
 ### Timer
 Alarm, but activates after specified amount of seconds.
